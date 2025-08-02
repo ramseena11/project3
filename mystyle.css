@@ -1,0 +1,234 @@
+div{
+    margin: auto;
+}
+.head{
+    margin: 10px;
+}
+.inbox1{
+    display: inline-block;
+}
+.sec2{
+    background-image: url(pro3img1.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
+}
+.inbox2{
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+}
+.sec3{
+    background-color: black;
+    padding: 20px;
+}
+.inbox3{
+    text-align: center;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.sec4{
+    background-image: url(sec4\ img.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
+}
+.inbox4{
+    
+    text-align: center;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+.div{
+    background-color: aliceblue;
+    width: 50%;
+    height: 2px;
+}
+.sec5{
+    background-image: url(background2.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
+
+}
+.inbox5{
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+
+}
+.sec6{
+    background-image: url(BANNER-24-2.jpg);
+    background-size: cover;
+}
+.inbox6{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 70px;
+}
+.overlay{
+    background-color:rgb(228, 240, 247);
+    opacity: 0.5;
+    padding: 100px 0;
+}
+.div{
+    background-color: rgb(217, 229, 237);
+    height: 1px;
+    width: 50%;
+
+}
+.div-1{
+    background-color: rgb(207, 223, 232);
+    height: 1px;
+    width: 50%;
+}
+.div{
+    background-color: rgb(208, 218, 224);
+    height: 1px;
+    width: 80%;
+}
+.sec7{
+    background-image:url(sec7img.jpeg) ;
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
+}
+.inbox7{
+    text-align: center;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.div{
+    background-color: aliceblue;
+    width: 50%;
+    height: 2px;
+}
+.sec8{
+    background-image:url(COUPLE\ DINING.avif) ;
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
+}
+.inbox8{ text-align: center;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+.sec9{
+    background-image:url(Group-Dining-hero.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.inbox9{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 70px;           
+}
+.overlay1{
+    background-color: rgb(217, 231, 240);
+    padding: 100px 0;
+}
+.div{
+    background-color: rgb(218, 224, 227);
+    height: 1px;
+    width: 50%;
+}
+.div-a{
+    background-color: rgb(224, 233, 239);
+    height: 1px;
+    width: 50%;
+}
+.diva{
+    background-color: rgb(234, 243, 242);
+    height: 1px;
+    width: 80%;
+}
+.sec10{
+    background-image:url(brisket\ passover.jpg) ;
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+}
+.inbox10{
+    text-align: center;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.div {
+    background-color: aliceblue;
+    width: 50%;
+    height: 2px;
+}
+.sec11{
+    background-color: rgba(0, 0, 0, 0.52);
+    padding: 50px 0;
+}
+.inbox11{
+    background-image:url(last.jpg) ;
+    background-size: cover;
+    text-align: center;
+    color: rgb(15, 22, 22);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    padding: 50px;
+}
+.list{
+    list-style-image: url();
+}
+.listn li a{
+    color: rgb(161, 98, 98);
+    
+}
+.inbox12{
+    padding-left: 50px;
+    color: rgb(187, 212, 233);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.inbox13{
+    padding-left: 50px;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.inbox14{
+    padding-left: 50px;
+    color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.sec12{
+    background-color:rgb(150, 137, 137);
+    padding: 50px 0;
+}
+.inbox15{
+    padding-left: 50px;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+.inbox16{
+    text-align: center;
+    
+}
+@media(max-width:768px){
+    .div,.div-a,.div{
+        margin: auto;
+        
+    }
+}
